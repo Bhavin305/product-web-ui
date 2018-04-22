@@ -1,8 +1,7 @@
 # product-web-ui
 Product api react client 
 
-Run commands
+  Run commands
 
-
-  npm install
-  npm start
+    npm install
+    npm start
